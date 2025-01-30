@@ -1,4 +1,4 @@
-This project was created under the following given parameters as given to me found below. Any feedback is gladly appreciated.
+This project was created based on the parameters outlined below. Your feedback is greatly appreciated.
 
 Programming Exercise
 Create a C# console application that is a simple version of Mastermind.  
